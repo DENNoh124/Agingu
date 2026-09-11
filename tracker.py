@@ -1,1 +1,1 @@
-# SMP Tracker - Steps tracking
+# SMP Tracker - Daily steps
