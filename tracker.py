@@ -1,11 +1,2 @@
-def assess_day(steps, sleep):
-    return steps >= 8000 and sleep >= 7
-
-def get_coaching(sleep, water, steps):
-    if sleep < 7:
-        return "Sleep more tonight"
-    if water < 2:
-        return "Drink more water"
-    if steps < 8000:
-        return "Take a walk"
-    return "Great job today!"
+def assess_day(steps, goal=10000):
+    return steps >= goal
