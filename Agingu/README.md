@@ -1,0 +1,1 @@
+# SMP Tracker - Daily check-in logic
